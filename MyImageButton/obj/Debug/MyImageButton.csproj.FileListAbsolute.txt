@@ -1,0 +1,7 @@
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\obj\Debug\MyImageButton.csproj.CoreCompileInputs.cache
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\bin\Debug\MyImageButton.dll
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\bin\Debug\MyImageButton.pdb
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\obj\Debug\MyImageButton.dll
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\obj\Debug\MyImageButton.pdb
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\obj\Debug\MyImageButton.CustomImageButton.resources
+F:\Documents\BlackOps\Work\Software Development\SalesRentals\MyImageButton\obj\Debug\MyImageButton.csproj.GenerateResource.Cache
